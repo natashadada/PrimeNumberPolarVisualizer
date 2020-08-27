@@ -6,21 +6,21 @@ This visualizer, graphs prime numbers in a spiral using polar coordinates. Each 
 The default state is the first 50 prime numbers each one degree apart, as shown below. The reset button returds the graph to this default state.
 
 The first 50 prime numbers plotted 1 degree apart:
-![Default](default.png)
+![Default](./images/default.png)
 
 The sliders can be adjusted to produce different graphs, as shown in the following examples.
 
 The first 50 prime numbers plotted 9 degrees apart:
-![Demo1](demo1.png)
+![Demo1](./images/demo1.png)
 
 The first 78 prime numbers plotted 144 degrees apart:
-![Demo2](demo2.png)
+![Demo2](./images/demo2.png)
 
 The first 78 prime numbers plotted 145 degrees apart:
-![Demo3](demo3.png)
+![Demo3](./images/demo3.png)
 
 The first 100 prime numbers plotted 179 degrees apart:
-![Demo4](demo4.png)
+![Demo4](./images/demo4.png)
 
 
 While these seem like specific choices, these patterns occur for many different theta increments. 
