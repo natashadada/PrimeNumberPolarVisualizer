@@ -6,7 +6,8 @@ This visualizer, graphs prime numbers in a spiral using polar coordinates. Each 
 The default state is the first 50 prime numbers each one degree apart, as shown below. The reset button returds the graph to this default state.
 
 The first 50 prime numbers plotted 1 degree apart:
-![Default](./images/default.png)
+
+<img src="./images/default.png" width="550">
 
 The sliders can be adjusted to produce different graphs, as shown in the following examples.
 
